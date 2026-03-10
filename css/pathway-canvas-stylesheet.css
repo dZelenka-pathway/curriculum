@@ -1,0 +1,83 @@
+/* Pathway Christian Prep Academy - Canvas Stylesheet */
+/* Main container for all Pathway content */
+
+.pw-canvas {
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #222;
+}
+
+/* Header section with school branding */
+.pw-header {
+    background: #001f3e;
+    color: #fff;
+    padding: 30px;
+    border-radius: 12px 12px 0 0;
+}
+
+.pw-header h1 {
+    margin: 0;
+}
+
+.pw-subtitle {
+    margin: 6px 0 0 0;
+    font-size: 18px;
+}
+
+.pw-bright {
+    margin: 6px 0 0 0;
+    color: #ebbd6b;
+}
+
+/* Content sections - alternating styles */
+.pw-0 {
+    border-left: 6px solid #ebbd6b;
+    padding: 20px;
+    background: #f7f8fa;
+}
+
+.pw-0 h2 {
+    margin-top: 0;
+}
+
+.pw-1 {
+    border-left: 6px solid #001f3e;
+    padding: 20px;
+}
+
+.pw-1 h2 {
+    margin-top: 0;
+}
+
+/* Footer section */
+.pw-footer {
+    background: #001f3e;
+    color: #fff;
+    padding: 16px;
+    border-radius: 0 0 12px 12px;
+    margin-top: 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Optional: Additional content section classes for variety */
+.pw-2 {
+    border-left: 6px solid #ebbd6b;
+    padding: 20px;
+}
+
+.pw-2 h2 {
+    margin-top: 0;
+}
+
+.pw-3 {
+    border-left: 6px solid #001f3e;
+    padding: 20px;
+    background: #f7f8fa;
+}
+
+.pw-3 h2 {
+    margin-top: 0;
+}
