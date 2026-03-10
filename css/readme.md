@@ -8,6 +8,12 @@ This repository contains standardized HTML templates and CSS styling for Pathway
 - **`template1.html`** - Clean HTML template for Canvas pages
 - **`curved-header.html`** - *(Not yet deployed)*
 
+Purge file
+- Go to: https://www.jsdelivr.com/tools/purge
+- Enter your URL: https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css
+- Click "Purge cache"
+- Wait 5-10 minutes, then refresh your Canvas page
+
 ## 🎨 Using in Canvas
 
 ### Imported CSS Globally (Admins)
