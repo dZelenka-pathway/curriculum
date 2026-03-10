@@ -190,3 +190,30 @@
     font-size: 14px;
     text-align: center;
 }
+
+/* Lesson section /*
+.pw-lesson-header {
+    background: #001f3e; 
+    color: white; 
+    padding: 30px; 
+    border-top: 6px solid #ebbd6b; 
+    border-radius: 14px; 
+    margin-bottom: 20px; 
+    text-align: center;
+}
+.pw-lesson-header h1 {
+    margin: 0;
+}
+.pw-lesson-div {
+    background: white; 
+    border-left: 8px solid #ebbd6b; 
+    padding: 28px; 
+    border-radius: 14px; 
+    text-align: center;
+}
+.pw-lesson-div {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+
