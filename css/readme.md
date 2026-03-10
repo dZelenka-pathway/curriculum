@@ -70,22 +70,6 @@ Include the CSS link at the top:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css">
 ```
 
-## 🎨 Available CSS Classes
-
-| Class | Purpose | Styling |
-|-------|---------|---------|
-| `.pw-canvas` | Main container | Full width, Arial font |
-| `.pw-header` | Page header | Navy background, white text, rounded top |
-| `.pw-subtitle` | Subtitle text | 18px, white |
-| `.pw-bright` | Accent text (FLEx Phase) | Gold color (#ebbd6b) |
-| `.pw-0` | Content section | Gold left border, light gray background |
-| `.pw-1` | Content section | Navy left border, white background |
-| `.pw-2` | Content section | Gold left border, white background |
-| `.pw-3` | Content section | Navy left border, light gray background |
-| `.pw-footer` | Page footer | Navy background, white text, rounded bottom |
-
-**Tip:** Alternate `.pw-0`, `.pw-1`, `.pw-2`, `.pw-3` for visual variety in longer pages.
-
 ## 🔄 Updating Styles
 
 When you update `pathway-canvas-stylesheet.css`:
