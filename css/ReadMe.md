@@ -12,34 +12,10 @@ This repository contains standardized HTML templates and CSS styling for Pathway
 
 ### Method 1: Import CSS Globally (Recommended for Admins)
 
-Add this to your Canvas **Admin → Themes → Global CSS**:
+This has been added to Canvas **Admin → Themes → Global CSS**:
 
 ```css
 @import url('https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css');
-```
-
-This applies Pathway styling across all Canvas pages automatically.
-
-### Method 2: Link CSS on Individual Pages
-
-Add this to the top of any Canvas page (HTML editor mode):
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css">
-
-<!-- Your content here -->
-```
-
-### Method 3: Embed CSS Inline (No external dependencies)
-
-Copy the contents of `pathway-canvas-stylesheet.css` and wrap in `<style>` tags at the top of your page:
-
-```html
-<style>
-/* Paste CSS contents here */
-</style>
-
-<!-- Your content here -->
 ```
 
 ## 📝 Using the Template
@@ -155,11 +131,6 @@ When you update `pathway-canvas-stylesheet.css`:
 </div>
 ```
 
-## 📞 Support
-
-For questions or issues, contact the Pathway curriculum team.
-
----
 
 **Repository:** https://github.com/dZelenka-pathway/curriculum  
 **Maintained by:** Pathway Christian Prep Academy
