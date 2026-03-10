@@ -10,7 +10,7 @@ This repository contains standardized HTML templates and CSS styling for Pathway
 
 ## 🎨 Using in Canvas
 
-### Method 1: Import CSS Globally (Recommended for Admins)
+### Imported CSS Globally (Admins)
 
 This has been added to Canvas **Admin → Themes → Global CSS**:
 
