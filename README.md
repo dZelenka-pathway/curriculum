@@ -7,7 +7,7 @@
 https://quiz-genius-flow.base44.app/[https://quiz-genius-flow.base44.app/]
 
 Easy Generator 
-
+```
 1. What is the capital of France?
 a) London
 b) Berlin
@@ -22,4 +22,4 @@ d) Madrid
 3. Match: Match countries with capitals
 France = Paris
 Italy = Rome
-...
+```
