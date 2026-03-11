@@ -6,7 +6,7 @@ This repository contains standardized HTML templates and CSS styling for Pathway
 
 - **`pathway-canvas-stylesheet.css`** - Main stylesheet with Pathway branding (navy #001f3e and gold #ebbd6b)
 - **`template1.html`** - Clean HTML template for Canvas pages
-- **`curved-header.html`** - *(Not yet deployed)*
+- **`curved-header.html`** - Classes: pw-lesson-header, pw-lesson-div
 
 Purge file
 - Go to: https://www.jsdelivr.com/tools/purge
