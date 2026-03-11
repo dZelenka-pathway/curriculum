@@ -72,8 +72,6 @@ Create content using the .pw-canvas structure with:
 - .pw-0, .pw-1, .pw-2, .pw-3 for alternating content sections
 - .pw-footer for copyright footer
 
-Include the CSS link at the top:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css">
 ```
 
 ## 🔄 Updating Styles
