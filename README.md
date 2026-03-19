@@ -1,4 +1,4 @@
-# curriculum
+# Curriculum
 2026 Curriculum Development
 
 ---
