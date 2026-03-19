@@ -4,7 +4,7 @@
 ---
 #QTI packaging
 
-https://quiz-genius-flow.base44.app/[https://quiz-genius-flow.base44.app/]
+[https://quiz-genius-flow.base44.app/]
 
 Easy Generator 
 ```
