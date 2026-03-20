@@ -14,12 +14,7 @@ b) Berlin
 c) Paris*
 d) Madrid
 
-2. Order: Arrange from smallest to largest
-- Atom
-- Molecule
-- Cell
-
-3. Match: Match countries with capitals
+2. Match: Match countries with capitals
 France = Paris
 Italy = Rome
 ```
