@@ -120,7 +120,7 @@ France = Paris
 Italy = Rome
 
 ```
-Provide html template: css/template_unit_introduction.html. You will need to resubmit just unit introduction and ask it to "code in html." 
+Paste a list of all sub-unit topics. Provide html template: css/template_unit_introduction.html. You will need to resubmit just unit introduction and ask it to "code in html." 
 
 
 
