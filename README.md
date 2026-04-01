@@ -71,9 +71,11 @@ Try to begin a new unit at the beginning of each semester and quarter (9 weeks).
 
 ---
 
-Attached:  Course Authoring Document, CK-12 Curriculum overview page. Discover Math PBL Math Investigations, math-rubric-5-point.csv
+Attached:  Course Authoring Document, CK-12 Curriculum overview page. Discover Math PBL Math Investigations, math-rubric-5-point.csv, template_course_unit_map.html, template_blueprint.html
 ```
 Example of CK-12 Flexbook: [https://flexbooks.ck12.org/cbook/ck-12-algebra-i-concepts]
+
+Upload these documents to the Pages section in Canvas as html
 
 
 
