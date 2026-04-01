@@ -148,3 +148,10 @@ Italy = Rome
 Ordering does not seem to import properly.
 
 
+
+# Step [n]
+
+Build Course Dashboard Card for Canvas
+Prompt: ```Draw a stylized course introduction card for [course] 262x146. Centered at bottom, 10% horizontal and lower margin, large bold san-serif text (2x standard size): "Course Title A/B"```
+
+
