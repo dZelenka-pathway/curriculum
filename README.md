@@ -6,7 +6,7 @@
 Step 1
 
 Use the following prompt to build a new Course Blueprint and Course Unit Map:
-
+```
 Write a Course Blueprint and Course Unit Map for [course]. All of our math practice will use CK-12 which includes online activities per topic. Rather than breaking it up into 18-week structure with 9-lesson FLEx cycles. We will use the CK-12 Unit Structure. Everything else will be the same. 
 
 CK-12 practices are scored only on completion (100% or 0). They are adaptive learning. There will be 2 activities per quarter which will be considered extra credit.
@@ -16,9 +16,13 @@ Each week should have a discussion: math tied to Biblical using the 6 kingdom do
 Each week should have a notebook due on Friday.
 
 Each unit will have a unit exam in Flint. There will be Practice and Exam mode.
+
 ---
+
 Quarterly PBL Project-based learning projects, develop these based on discomath.com activities: https://discomath.com/activities/list/8.
+
 ---
+
 General Rubric: 
 Excellent - A - 5.0
 Proficient - B - 4.4
@@ -27,7 +31,9 @@ Needs Improvement - D - 3.5
 Insufficient - F - 3.0
 
 This method allows conversion to a grade. When using multiple criteria, an average can be built based on that second value, using the Canvas rubric tool. Rubrics are attached as Rubric5PointMath.csv.
+
 ---
+
 Below is an example of a Math Unit Exam Prompt. 
 Build a 40-minute [course] Thrid Quarter exam. Follow these guidelines:
 
@@ -52,16 +58,21 @@ Keep responses low-verbose
 Begin the 40-minute exam when student indicates official exam. Use different question bank. Export question banks into well structured json file with latex for math into one file differentiating between practice-mode and exam-mode problems.
 
 GRADING:
+
 Excellent: Deep understanding, clear explanations, correct applications
 Proficient: Solid understanding, mostly clear explanations, minor errors
 Developing: Partial understanding, needs clarity, some errors; less than 8 questions answered
 Needs Improvement: Limited understanding, unclear explanations, frequent errors; less than 4 questions answered
+
 ---
+
 For this output, create 4-quarter blueprint and course unit map. Include CCS Math Standards chart in course unit map. No lessons or assessments. Produce the weekly discussion prompts. Don't use the standard 18-week structure with 9-lessons. Just 18 weeks of content. Break up into CK-12-based units. Name weeks by semester: Semester 1 or 2: Week 1-18. 
 Try to begin a new unit at the beginning of each semester and quarter (9 weeks). 
----
-Attached:  Course Authoring Document, CK-12 Curriculum overview page. Discover Math PBL Math Investigations, math-rubric-5-point.csv
 
+---
+
+Attached:  Course Authoring Document, CK-12 Curriculum overview page. Discover Math PBL Math Investigations, math-rubric-5-point.csv
+```
 
 
 
