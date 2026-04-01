@@ -3,7 +3,7 @@
 
 ---
 
-Step 1
+## Step 1
 
 Use the following prompt to build a new Course Blueprint and Course Unit Map:
 ```
