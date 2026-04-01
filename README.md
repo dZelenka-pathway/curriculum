@@ -7,7 +7,7 @@
 
 Use the following prompt to build a new Course Blueprint and Course Unit Map:
 ```
-Write a Course Blueprint and Course Unit Map for [course]. All of our math practice will use CK-12 which includes online activities per topic. Rather than breaking it up into 18-week structure with 9-lesson FLEx cycles. We will use the CK-12 Unit Structure. Everything else will be the same. 
+Write a Course Blueprint and Course Unit Map for [course] (use html templates). All of our math practice will use CK-12 which includes online activities per topic. Rather than breaking it up into 18-week structure with 9-lesson FLEx cycles. We will use the CK-12 Unit Structure. Everything else will be the same. 
 
 CK-12 practices are scored only on completion (100% or 0). They are adaptive learning. There will be 2 activities per quarter which will be considered extra credit.
 
