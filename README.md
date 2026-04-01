@@ -3,7 +3,7 @@
 
 ---
 
-## Step 1
+## Step 1 - Course Initation
 
 Use the following prompt to build a new Course Blueprint and Course Unit Map:
 ```
@@ -79,7 +79,7 @@ Example of CK-12 Flexbook: [https://flexbooks.ck12.org/cbook/ck-12-algebra-i-con
 You may need to ask Flint to "code in html" after it produces these docs. Paste html documents to the Pages section in Canvas as html. Remove all html outside divs.
 
 
-## Step 2
+## Step 2 - Assessments and Standards Guide
 
 After Step 1 in same chat, use css/template_assessment_standard_guide.html as a template:
 ```
@@ -87,19 +87,49 @@ Build and code in html the Assessments and Standards guide using this template:
 ```
 Paste template after prompt. Upload to the Pages section in Canvas as html. Remove all html outside divs.
 
+## Step 3 - Discussions
 
+Edit each discussion for Semester A and Semester B. Filter the best of the three options for each week or modify to create your own.
 
+# Step 4 - Repeat for all course units
 
+Build each Unit pre-assessment QTI Quiz with introductory html. This may be converted at a later date to EG.
 
+```
+Unit Introduction	"Write a brief introductory lesson for [course] Unit [x]. Less than 5000 chars.  
+---
+Title: [unit title]
+Subtitle: [create subtitle]
+Sections:
+What is ...[explain how jesus is the logos and how he forms our reasoning ability.]
+Three Big Ideas...
+Your Exploration Task...
+Closing Reflection
+---
 
+Include a 10 question quiz in the following format. Not included in 5000 character count.
 
+1. What is the capital of France?
+a) London
+b) Berlin
+c) Paris*
+d) Madrid
 
+2. Match: Match countries with capitals
+France = Paris
+Italy = Rome
 
+```
+Provide html template: css/template_unit_introduction.html. You will need to resubmit just unit introduction and ask it to "code in html." 
 
 
 
 ---
-#QTI packaging
+
+- Go to QTI packaging site and paste in quiz. 
+- Export as QTI and import into course. 
+- Edit new quiz and paste in html. 
+- Add as module in correct unit.
 
 [https://quiz-genius-flow.base44.app/]
 
@@ -116,3 +146,5 @@ France = Paris
 Italy = Rome
 ```
 Ordering does not seem to import properly.
+
+
