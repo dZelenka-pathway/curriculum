@@ -76,12 +76,16 @@ Attached:  Course Authoring Document, CK-12 Curriculum overview page. Discover M
 ```
 Example of CK-12 Flexbook: [https://flexbooks.ck12.org/cbook/ck-12-algebra-i-concepts]
 
-You may need to ask Flint to "code in html" after it produces these docs. Upload these documents to the Pages section in Canvas as html.
+You may need to ask Flint to "code in html" after it produces these docs. Paste html documents to the Pages section in Canvas as html. Remove all html outside divs.
 
 
 ## Step 2
 
-After Step 1 in same chat, use css/template_assessment_standard_guide.html as a template to "Code in html."
+After Step 1 in same chat, use css/template_assessment_standard_guide.html as a template:
+```
+Build and code in html the Assessments and Standards guide using this template:
+```
+Paste template after prompt. Upload to the Pages section in Canvas as html. Remove all html outside divs.
 
 
 
