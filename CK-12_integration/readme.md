@@ -1,5 +1,3 @@
-# README.md for Algebra 1 Canvas Import
-
 # Algebra 1 Pathway Canvas Common Cartridge Import
 
 This package generates a **Common Cartridge (.imscc)** file containing 161 CK-12 Algebra 1 assignments ready to import into Canvas.
