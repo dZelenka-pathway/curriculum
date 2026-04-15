@@ -1,6 +1,6 @@
 ## Unit and Math investigation image
 
-Prompt: Draw a stylized introduction image 800x533 (no text or equations)
+Prompt: Draw a stylized introduction image for this unit 800x533 (no text or equations)
 
 ```<div><img style="float: right; width: 50%; margin-left:10px;" src="/courses/545/files/44059/preview" alt="Geometry-Intro.jpg" /></div>```
 
