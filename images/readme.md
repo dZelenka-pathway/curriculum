@@ -7,4 +7,4 @@ Prompt: Draw a stylized introduction image for this unit 800x533 (no text or equ
 ---
 ## Course Dashboard Card for Canvas
 
-Prompt: Draw a stylized course introduction card  for [course] 262x146. Text centered at bottom, 10% horizontal and lower padding, large bold san-serif text (2x standard size): "Course Title <em>A/B</em>"; no watermark.
+Prompt: Draw a stylized course introduction card for [course]: 262x146 (exact). Text centered at bottom, 10% padding (margin to edge), large bold san-serif text (2x standard size): "Course Title <em>A/B</em>"; no watermark.
