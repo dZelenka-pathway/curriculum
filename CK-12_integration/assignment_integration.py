@@ -266,7 +266,7 @@ def build_manifest(entries):
         resources_xml += f'    </resource>\n'
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="g_algebra1_pathway_rewrite"
+<manifest identifier="g_ck12_pathway_rewrite"
   xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1"
   xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource"
   xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest"
@@ -278,7 +278,7 @@ def build_manifest(entries):
     <lomimscc:lom>
       <lomimscc:general>
         <lomimscc:title>
-          <lomimscc:string>Algebra 1 A Pathway Rewrite</lomimscc:string>
+          <lomimscc:string>CK-12 Content Pathway Rewrite</lomimscc:string>
         </lomimscc:title>
       </lomimscc:general>
     </lomimscc:lom>
@@ -317,7 +317,7 @@ for i, title in enumerate(assignments, start=1):
     html_file = slug + ".html"
     entries.append((identifier, slug, title, folder, html_file, i))
 
-zip_path = "algebra1_pathway_canvas_import.imscc"
+zip_path = "ck12_pathway_canvas_import.imscc"
 
 with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
     # manifest
