@@ -29,6 +29,7 @@ This has been added to Canvas **Admin → Themes → Global CSS**:
 1. Copy the HTML from `template1.html`
 2. Replace bracketed placeholders `[Main Title]`, `[Section 1]`, etc. with your content
 3. Paste into Canvas page (HTML editor mode)
+4. Prompt LLM with "Code in html plain text." It will sometimes ignore that prompt. If so, try again.
 
 ### Template Structure:
 
