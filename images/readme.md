@@ -1,6 +1,7 @@
 ## Unit and Math investigation image
 
 Prompt Unit: Draw a stylized introduction image for this unit 800x533 (no text or equations) without a watermark.
+
 Prompt Investigation: Draw a stylized introduction image for this math investigation 800x533 (no text or equations) without a watermark.
 
 ```<div><img style="float: right; width: 50%; margin-left:10px;" src="/courses/545/files/44059/preview" alt="Geometry-Intro.jpg" /></div>```
