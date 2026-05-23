@@ -30,6 +30,7 @@ This has been added to Canvas **Admin → Themes → Global CSS**:
 2. Replace bracketed placeholders `[Main Title]`, `[Section 1]`, etc. with your content
 3. Paste into Canvas page (HTML editor mode)
 4. Prompt LLM with "Code in html inline text." It will sometimes ignore that prompt. If so, try again.
+5. Alternate prompt: "Code inline text the content into this template (do not include quiz, <body> content only).  If there's content gap in the html structure add content."
 
 ### Template Structure:
 
