@@ -9,6 +9,6 @@ Prompt Investigation: Draw a stylized introduction image for this math investiga
 ---
 ## Course Dashboard Card for Canvas
 
-Prompt: Draw a stylized course introduction card for [course]: 262x146 (exact). Text centered at bottom, 10% padding (margin to edge), large bold san-serif text (2x standard size): "Course Title <em>A/B</em>"; no watermark.
+Prompt: Draw a stylized course introduction card for Canvas [course]: 262x146 (exact). Text centered at bottom, 10% padding (margin to edge), large bold san-serif text (2x standard size): "Course Title <em>A/B</em>"; no watermark.
 
 Tip: Gemini does the best, but you'll need to remove the watermark in GIMP or Photoshop.
