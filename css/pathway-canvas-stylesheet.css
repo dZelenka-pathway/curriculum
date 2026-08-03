@@ -226,12 +226,13 @@
   z-index: 0;                 /* makes this element its own stacking context */
   display: inline-block;
   padding: 12px 35px;
+  margin: 5px;
   color: #001f3f;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 1.1em;
   text-transform: uppercase;
-  text-decoration: none !important;;
+  text-decoration: none !important;
   cursor: pointer;
 }
 
