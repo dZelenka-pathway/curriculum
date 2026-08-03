@@ -221,11 +221,11 @@
 }
 /* Course Home Page Buttons */
 .home-button {
-  white-space: nowrap;
+  width:90%;
   position: relative;
   z-index: 0;                 /* makes this element its own stacking context */
   display: inline-block;
-  padding: 12px 35px;
+  padding: 12px 0;
   margin: 5px;
   color: #001f3f;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
