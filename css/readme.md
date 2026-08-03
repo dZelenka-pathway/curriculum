@@ -120,19 +120,21 @@ When you update `pathway-canvas-stylesheet.css`:
     </div>
 </div>
 ```
-## Color Palette
+## 🎨 Palette Overview
 
 | Swatch | Hex Code | Description / Usage |
 | :---: | :--- | :--- |
-| <span style="display:inline-block; width:22px; height:22px; background:#001f3e; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#001f3e` | **Primary Dark Navy** — Main headers, borders, footer, callout text |
-| <span style="display:inline-block; width:22px; height:22px; background:#003d66; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#003d66` | **Deep Blue** — Header background gradient stop |
-| <span style="display:inline-block; width:22px; height:22px; background:#ebbd6b; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#ebbd6b` | **Pathway Gold** — Subtitles, accent borders, buttons, callout background |
-| <span style="display:inline-block; width:22px; height:22px; background:#222222; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#222` (`#222222`) | **Charcoal** — Default body text |
-| <span style="display:inline-block; width:22px; height:22px; background:#555555; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#555` (`#555555`) | **Medium Gray** — Blockquote body text |
-| <span style="display:inline-block; width:22px; height:22px; background:#e0e0e0; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#e0e0e0` | **Light Slate** — Header metadata text |
-| <span style="display:inline-block; width:22px; height:22px; background:#dddddd; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#ddd` (`#dddddd`) | **Border Gray** — Table grid lines |
-| <span style="display:inline-block; width:22px; height:22px; background:#f7f8fa; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#f7f8fa` | **Off-White** — Alternating section backgrounds, table rows, reflection box |
-| <span style="display:inline-block; width:22px; height:22px; background:#ffffff; border:1px solid #ccc; border-radius:4px; vertical-align:middle;"></span> | `#fff` (`#ffffff`) | **Pure White** — Cards, headers text, container background |
+| ![](https://img.shields.io/badge/-001f3e?style=flat-square&color=001f3e) | `#001f3e` | **Primary Dark Navy** — Main headers, borders, footer, callout text |
+| ![](https://img.shields.io/badge/-003d66?style=flat-square&color=003d66) | `#003d66` | **Deep Blue** — Header background gradient stop |
+| ![](https://img.shields.io/badge/-ebbd6b?style=flat-square&color=ebbd6b) | `#ebbd6b` | **Pathway Gold** — Subtitles, accent borders, buttons, callout background |
+| ![](https://img.shields.io/badge/-222222?style=flat-square&color=222222) | `#222222` | **Charcoal** — Default body text |
+| ![](https://img.shields.io/badge/-555555?style=flat-square&color=555555) | `#555555` | **Medium Gray** — Blockquote body text |
+| ![](https://img.shields.io/badge/-e0e0e0?style=flat-square&color=e0e0e0) | `#e0e0e0` | **Light Slate** — Header metadata text |
+| ![](https://img.shields.io/badge/-dddddd?style=flat-square&color=dddddd) | `#dddddd` | **Border Gray** — Table grid lines |
+| ![](https://img.shields.io/badge/-f7f8fa?style=flat-square&color=f7f8fa) | `#f7f8fa` | **Off-White** — Alternating section backgrounds, table rows |
+| ![](https://img.shields.io/badge/-ffffff?style=flat-square&color=ffffff) | `#ffffff` | **Pure White** — Cards, headers text, container background |
+
+```
 
 **Repository:** https://github.com/dZelenka-pathway/curriculum  
 **Maintained by:** Pathway Christian Prep Academy
