@@ -10,7 +10,7 @@ This repository contains standardized HTML templates and CSS styling for Pathway
 
 Purge file
 - Go to: https://www.jsdelivr.com/tools/purge
-- Enter your URL: https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum@main/css/pathway-canvas-stylesheet.css
+- Enter your URL: https://cdn.jsdelivr.net/gh/dZelenka-pathway/curriculum/css/pathway-canvas-stylesheet.css
 - Click "Purge cache"
 - Wait 5-10 minutes, then refresh your Canvas page
 
