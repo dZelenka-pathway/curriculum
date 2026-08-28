@@ -17,8 +17,8 @@ FIND_TEXT = "Generally accurate."
 REPLACE_TEXT = "Generally accurate. Shows clear understanding."
 CASE_SENSITIVE = True
 
-DRY_RUN = False                     # Phase 1 only — backs up and reports, no changes
-CONFIRM_DESTRUCTIVE_PHASE = True  # must ALSO be True (with DRY_RUN False) to run Phase 2
+DRY_RUN = True                     # Phase 1 only — backs up and reports, no changes
+CONFIRM_DESTRUCTIVE_PHASE = False  # must ALSO be True (with DRY_RUN False) to run Phase 2
 
 BACKUP_FILE = "rubric_full_backup.json"
 
