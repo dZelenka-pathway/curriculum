@@ -1,7 +1,7 @@
 import requests
 
 CANVAS_URL = "https://pathwaychristian.instructure.com"
-API_TOKEN = "[token goes here]"  # Replace after revoking the exposed token
+API_TOKEN = "[token goes here]"  
 
 COURSE_IDS = [771, 772, 802, 801, 803, 804, 805,
     806, 807, 808, 809, 810, 797, 800]
