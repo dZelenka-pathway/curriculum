@@ -48,7 +48,7 @@ COURSE_IDS = [
 # 771, 772, 802, 801, 803, 804, 805, 806, 807, 808, 809, 810, 797, 800,
 
 RUBRIC_TITLE = "Notebook Check 1"   # must match EXACTLY what's currently in Canvas for each course
-NEW_TITLE = "Notebook Check"    # what the recreated rubric should be titled (clean, no "(1)" suffixes)
+NEW_TITLE = "Notebook Check"    # what the recreated rubric should be titled (clean, no "(1)" suffixes). Must have a different name.
 
 FIND_TEXT = "Clear understanding."
 REPLACE_TEXT = "Clear understanding. "
