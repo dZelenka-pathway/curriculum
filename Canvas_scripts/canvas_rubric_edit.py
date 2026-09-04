@@ -40,19 +40,19 @@ import requests
 # --------------------------------------------------------------------------
 
 CANVAS_URL = "https://pathwaychristian.instructure.com"
-API_TOKEN = "[token goes here]"
+API_TOKEN = "28207~a2NYtBYPxBQk8ahe2uy4ah6nrvHz7FRhkCBrwk4JDT6AL4uhetCFHJGktynfzetA"
 
 COURSE_IDS = [
-    772,
+    771, 772, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 797, 800,
+
 ]
 # 771, 772, 802, 801, 803, 804, 805, 806, 807, 808, 809, 810, 797, 800,
 
-RUBRIC_TITLE = "Notebook Check 1"   # must match EXACTLY what's currently in Canvas for each course
-NEW_TITLE = "Notebook Check "    # what the recreated rubric should be titled (clean, no "(1)" suffixes). Must have a different name.
-# Sometimes it will add (1) after the title, for some reason adding an extra space after the title resolves this.
+RUBRIC_TITLE = "Exam (Flint) 1"   # must match EXACTLY what's currently in Canvas for each course
+NEW_TITLE = "Exam (Flint) "    # what the recreated rubric should be titled (clean, no "(1)" suffixes). Must have a new title
 
-FIND_TEXT = "Clear understanding."
-REPLACE_TEXT = "Clear understanding. "
+FIND_TEXT = "Completes practice test problems."
+REPLACE_TEXT = "Completed practice test."
 CASE_SENSITIVE = True
 
 # If True, after linking the new rubric to an assignment, delete the old
