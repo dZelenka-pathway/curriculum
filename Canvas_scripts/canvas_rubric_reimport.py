@@ -68,7 +68,7 @@ CANVAS_URL = "https://pathwaychristian.instructure.com"
 # Prefer an env var so the token stays out of the file:
 #   Windows:  set CANVAS_API_TOKEN=.....
 #   mac/linux: export CANVAS_API_TOKEN="....."
-API_TOKEN = os.environ.get("CANVAS_API_TOKEN", "28207~a2NYtBYPxBQk8ahe2uy4ah6nrvHz7FRhkCBrwk4JDT6AL4uhetCFHJGktynfzetA")
+API_TOKEN = os.environ.get("CANVAS_API_TOKEN", "token goes here")
 
 COURSE_IDS = [
     772,
