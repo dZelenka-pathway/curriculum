@@ -40,7 +40,7 @@ import requests
 # --------------------------------------------------------------------------
 
 CANVAS_URL = "https://pathwaychristian.instructure.com"
-API_TOKEN = "28207~a2NYtBYPxBQk8ahe2uy4ah6nrvHz7FRhkCBrwk4JDT6AL4uhetCFHJGktynfzetA"
+API_TOKEN = "token goes here"
 
 COURSE_IDS = [
     771, 772, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 797, 800,
